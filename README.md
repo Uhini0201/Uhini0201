@@ -47,6 +47,12 @@ Here are some ideas to get you started:
 ### The Programming Languages I know :performing_arts:
 
 <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg">
+<img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg">
+<img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg">
+<img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg">
+<img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
+
+https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg
 
 
 
