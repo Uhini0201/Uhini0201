@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 </a>
 <br/><br/>
 <p align="center">
-<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
 </p>
 <br/><br/>
 
