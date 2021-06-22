@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="left" alt="Uhini Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
-<a href="https://www.linkedin.com/in/uhini-m-b423a41a1/">
+<a href="" width="21px"
+<a href="https://www.linkedin.com/in/uhini-m-b423a41a1/" width="21px">
   <img align="left" alt="Uhini Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/uhini0215" width="21px">
