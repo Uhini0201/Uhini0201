@@ -47,14 +47,19 @@ Here are some ideas to get you started:
 ### The Programming Languages I know :performing_arts:
 <p>
   <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg">
-  <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg">
-  <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg">
-  <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg">
-  <img alt="Python" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
+  <img alt="css3" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg">
+  <img alt="git" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg">
+  <img alt="html5" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg">
+  <img alt="js" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg">
+ </p>
+ <p>
+  <img alt="npm" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg">
+  <img alt="sass" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sass.svg">
+  <img alt="c++" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg">
  </p>
 
-https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg
-
+### Tools I have worked with :toolbox:
+<img alt="heroku" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/heroku.svg">
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Uhini0201/Uhini0201)
