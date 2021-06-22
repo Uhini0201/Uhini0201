@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://twitter.com/cs_vedant">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a> -->
-<a href="https://codeforces.com/profile/Unconditional_lover" width="21px>
+<a href="https://codeforces.com/profile/Unconditional_lover" width="21px">
   <img align="left" alt="Uhini CP" width="21px" src="https://github.com/npanuhin/Artwork/blob/master/SVG/Codeforces/Codeforces.colored.svg" />
 </a>
 <a href="#">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/uhini-m-b423a41a1/">
   <img align="left" alt="Uhini Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href=https://www.codechef.com/users/uhini0215" width="21px">
+<a href="https://www.codechef.com/users/uhini0215" width="21px">
   <img align="left" alt="Uhini Codechef" width="21px" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" />
 </a>
 <br/><br/>
