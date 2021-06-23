@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 <br/><br/>
 <p align="center">
 </p>
-<br/><br/>
+<br/>
+
 
 ### The Programming Languages I know :performing_arts:
 <p>
