@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/Unconditional_lover" width="21px">
   <img align="left" alt="Uhini CP" width="21px" src="https://github.com/npanuhin/Artwork/blob/master/SVG/Codeforces/Codeforces.colored.svg" />
 </a>
+<a href="https://github.com/Uhini0201" width="21px">
+  <img align="left" alt="GitUhini" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg"/>
+ </a>
 <a href="#">
   <img align="left" alt="Uhini Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
