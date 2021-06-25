@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Uhini currently a Second Year CSE student at <a href="https://www.bppimt.ac.in/">@BPPIMT :school: </a> and aspiring software developer:computer:. Interested in working on frontend, API's, Databases and currently learning about different front end frameworks. Occasionaly I do participate in Hackathons :bulb: and me and programming, we don't  really get along well, it's just maybe we aren't that made in heaven. :slightly_smiling_face:
+    I'm Uhini currently a Second Year CSE student at <a href="https://www.bppimt.ac.in/">@BPPIMT :school: </a> and aspiring web developer:computer:. Interested in working on frontend, API's, Databases and currently learning about different front end frameworks. Occasionaly I do participate in Hackathons :bulb: and me and programming, we don't  really get along well, it's just maybe we aren't that made in heaven. :slightly_smiling_face:.I am not really interested in developing, i have just started learning about it. For me coding is far better than developing :smiley: . I am a lone wolf, I like to mind my things and is very concise in my life :alien: .
   </samp>
 </p>
 
