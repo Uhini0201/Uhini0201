@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 <img alt="heroku" width="100px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/heroku.svg">
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Uhini0201/Uhini0201)
+![visitors](https://fork-badge.glitch.me/badge?page_id=Uhini0201/Uhini0201)
 
 ![ViewCount](https://views.whatilearened.today/views/github/Uhini0201/views.svg)
