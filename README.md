@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <br/><br/>
 <p align="center">
 </p>
+
+<img align="center">
 <br/>
 
 ### The Programming Languages I know :performing_arts:
